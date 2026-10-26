@@ -1,5 +1,5 @@
 # LLM
-Making my own LLM
+Making my own LLM. This repo too is still under construction, slow day for me I guess. 
 
 
 
